@@ -1,2 +1,2 @@
 # Plant_Disease_Detection
-This repo contains the python codes of my project "analysis of leaf types and detection of diseases with image processing and machine learning methods", which I did as a graduation thesis.
+This repo contains the python codes of my final thesis "Analysis of leaf species and detection of diseases using image processing and machine learning methods".
